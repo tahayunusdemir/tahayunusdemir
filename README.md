@@ -72,8 +72,6 @@
 
 Passionate about fantasy and sci-fi genres, including superheroes, zombies, and post-apocalyptic worlds. Avid RPG gamer with extensive experience in titles like Skyrim, Witcher, and Mass Effect. Fan of series like Game of Thrones, Breaking Bad, and Mr. Robot.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahayunusdemir/tahayunusdemir/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahayunusdemir/tahayunusdemir/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tahayunusdemir/tahayunusdemir/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/Platane/snk" target="_blank">
+  <img src="https://user-images.githubusercontent.com/48695864/104010845-63c5de00-51f2-11eb-946c-e9dcf73a075e.gif" alt="GitHub Katkı Grafiği Yılan Oyunu" width="100%">
+</a>
