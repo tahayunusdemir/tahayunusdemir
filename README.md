@@ -61,169 +61,94 @@ I am a dedicated Computer Engineering student with proven experience in developi
 
 <div align="center">
 
-| Platform | Link | Purpose |
-|----------|------|----------|
-| **Email** | [tahayunusdemir@gmail.com](mailto:tahayunusdemir@gmail.com) | Professional inquiries |
-| **LinkedIn** | [linkedin.com/in/taha-yunus-demir](https://linkedin.com/in/taha-yunus-demir) | Professional networking |
-| **GitHub** | [github.com/tahayunusdemir](https://github.com/tahayunusdemir) | Code repositories |
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahayunusdemir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-yunus-demir)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahayunusdemir)
 
 </div>
 
 ---
 
-## Programming Languages & Technologies
+## Tech Stack
 
 <div align="center">
 
-### Core Programming Languages
+**Languages**
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Technologies
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Backend & Frameworks
+**Backend**
+<br/>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Mobile Development
+**Mobile & Tools**
+<br/>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### Proficiency Levels
-
-<div align="center">
-
-| **Advanced** | **Intermediate** | **Learning** |
-|:------------:|:----------------:|:------------:|
-| ![Python](https://img.shields.io/badge/Python-Advanced-success?style=flat-square) | ![React](https://img.shields.io/badge/React-Intermediate-informational?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-orange?style=flat-square) |
-| ![Django](https://img.shields.io/badge/Django-Advanced-success?style=flat-square) | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-informational?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker-Learning-orange?style=flat-square) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-success?style=flat-square) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-informational?style=flat-square) | ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-orange?style=flat-square) |
-| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Advanced-success?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-informational?style=flat-square) | ![Material-UI](https://img.shields.io/badge/Material--UI-Learning-orange?style=flat-square) |
-| ![Git](https://img.shields.io/badge/Git-Advanced-success?style=flat-square) | ![Android Development](https://img.shields.io/badge/Android-Intermediate-informational?style=flat-square) |  |
-
-</div>
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Montanha Viva Dashboard
-**Full-Stack Web Platform for Nature Enthusiasts** | *August 2025*
+###  Montanha Viva Dashboard
+**Full-Stack Nature Platform** | [Live Demo](#) | [Code](#)
 
-- **Description**: Comprehensive platform combining plant encyclopedia, QR-based reward system, and IoT sensor integration for environmental monitoring
-- **Key Features**: Weather forecasting, administrative dashboard, secure user authentication, real-time data visualization
-- **Tech Stack**: Django REST Framework, React.js, Material-UI, PostgreSQL, Docker
-- **Impact**: Created engaging platform for nature conservation awareness and education
+Plant encyclopedia with QR rewards and IoT sensor integration for environmental monitoring.
 
-### Emergency Aid and Need Coordination Network
-**Disaster Management Platform** | *June 2025*
+**Tech Stack:** `Django` `React` `PostgreSQL` `Docker` `Material-UI`
 
-- **Description**: Comprehensive disaster coordination system developed with TUBITAK 2209-A research scholarship funding
-- **Key Features**: GPS-based tracking, QR code verification, volunteer management system, role-based access control
-- **Tech Stack**: Web and mobile applications with integrated backend services
-- **Impact**: Successfully managed coordination of 100+ volunteers during emergency scenarios
-- **Recognition**: Funded by Turkish Scientific and Technological Research Council
+###  Emergency Coordination Network
+**TUBITAK Research Project** | [Code](#)
 
----
+Disaster management system with GPS tracking and volunteer coordination (100+ volunteers managed).
 
-## Professional Experience
+**Tech Stack:** `Full-Stack Web` `Mobile Apps` `GPS Integration` `QR Verification`
 
-<details>
-<summary><strong>Software Intern — Bimser Turkey</strong> <em>(August 2024)</em></summary>
-<br>
+###  Ticket Management App
+**Enterprise Mobile Solution** | [Code](#)
 
-**Project**: Ticket App Mobile Application Development
+Android app for internal support processes at Bimser Turkey using modern architecture.
 
-**Key Contributions:**
-- Developed complete Android application from scratch using Kotlin and MVVM architecture
-- Integrated RESTful APIs for real-time data synchronization and user authentication
-- Implemented modern Android development practices including dependency injection
-- Collaborated with cross-functional teams to gather requirements and deliver solutions
-- Enhanced company's internal support processes through mobile digitalization
-
-**Technologies Used:** `Kotlin` `Android Studio` `MVVM Architecture` `RESTful APIs` `Git`
-
-**Impact**: Successfully delivered mobile solution that improved operational efficiency across the organization
-
-</details>
-
-<details>
-<summary><strong>Bootcamp Intern — TUBITAK BILGEM YTE</strong> <em>(October 2023)</em></summary>
-<br>
-
-**Program**: Software Technologies Research Institute Intensive Training
-
-**Key Contributions:**
-- Completed comprehensive 2-week program covering full-stack development lifecycle
-- Applied UX/UI design principles and created high-fidelity prototypes using Figma
-- Developed backend applications using Java Spring Boot framework
-- Gained hands-on experience with microservices architecture and modern development practices
-- Participated in code reviews and agile development methodologies
-
-**Technologies Used:** `Java` `Spring Boot` `Figma` `Microservices` `Git` `Agile Methodology`
-
-**Achievements**: Successfully completed advanced Java and Spring framework training with practical project implementations
-
-</details>
+**Tech Stack:** `Kotlin` `MVVM` `RESTful APIs` `Android Studio`
 
 ---
 
-## Education
+## Experience
 
-| Institution | Degree | Duration | GPA | Status |
-|-------------|--------|----------|-----|--------|
-| **University of Beira Interior** | Computer Engineering (Erasmus+) | Feb 2025 - Jul 2025 | 3.3/4.0 | Current |
-| **Dumlupinar University** | Computer Engineering (Lateral Transfer) | Sep 2022 - Feb 2025 | 3.5/4.0 | Completed |
-| **Gaziosmanpasa University** | Computer Engineering | Sep 2021 - Jun 2022 | 3.78/4.0 | Transferred |
+**Software Intern** @ Bimser Turkey *(Aug 2024)*
+- Developed complete Android application using Kotlin & MVVM architecture
+- Integrated RESTful APIs and implemented modern development practices
+- Delivered mobile solution improving operational efficiency company-wide
 
-**Academic Highlights:**
-- **Erasmus+ Scholarship**: Selected for competitive international exchange program in Portugal
-- **Lateral Transfer Achievement**: Achieved top 10% performance in transfer process to Computer Engineering
-- **Consistent Academic Excellence**: Maintained high GPA across multiple institutions
-
-**Relevant Coursework:**
-> Data Structures & Algorithms • Object-Oriented Programming • Database Systems • Web Development • Software Engineering • Mobile Application Development • Computer Networks • Operating Systems • Software Architecture
+**Bootcamp Intern** @ TUBITAK BILGEM YTE *(Oct 2023)*
+- Completed intensive full-stack development program
+- Developed backend applications with Java Spring Boot & microservices
+- Applied UX/UI design principles and agile methodologies
 
 ---
 
-## Awards and Recognition
+## Education & Awards
 
-**Erasmus+ Scholarship - European Union Exchange Program (2024)**
-- Selected among competitive applicants for international academic mobility scholarship
-- Pursuing Computer Engineering studies at University of Beira Interior, Portugal
-- Demonstrates academic excellence and international perspective
-
-**TUBITAK 2209-A Scholarship - University Students Research Projects Support Program (2024)**
-- Awarded competitive national research scholarship by Turkish Scientific and Technological Research Council
-- Project: Emergency management system development for disaster coordination
-- Recognition of research potential and innovative project proposal
-
-**Lateral Transfer Achievement - Top 10% Academic Performance (2022)**
-- Achieved top 10% ranking in highly competitive lateral transfer process
-- Successfully transferred to Computer Engineering program based on academic excellence
-- Demonstrates consistent high-level academic performance
+**Computer Engineering** @ Dumlupinar University *(2022-2025)*
+- **TUBITAK 2209-A Research Scholarship** for emergency management system
+- **Top 10% Academic Performance** in lateral transfer process
+- **GPA:** 3.5/4.0 (Consistent excellence across institutions)
 
 ---
 
@@ -254,57 +179,11 @@ I am a dedicated Computer Engineering student with proven experience in developi
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## GitHub Achievements
-
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tahayunusdemir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+**Building innovative solutions with clean code and modern technologies**
 
-</div>
-
----
-
-## Personal Interests
-
-<details>
-<summary>Beyond Coding</summary>
-<br>
-
-**Technology & Learning**
-- Exploring emerging technologies and development trends
-- Currently learning Portuguese language and culture through Erasmus experience
-- Following advancements in AI, machine learning, and cloud technologies
-
-**Professional Development**
-- Microservices architecture and distributed systems
-- Mobile development best practices and modern Android frameworks
-- Open-source contribution and community involvement
-
-**Personal**
-- Gaming enthusiast with preference for strategic and RPG games
-- International cultural exchange and language learning
-- Building applications that address real-world challenges
-
-</details>
-
----
-
-<div align="center">
-
-### Professional Summary
-
-**"Dedicated to building innovative solutions that make a positive impact"**
-
-I am a Computer Engineering student with hands-on experience in full-stack development, mobile applications, and research projects. My academic journey spans multiple institutions including international experience through Erasmus+, and I have been recognized with prestigious scholarships for both academic excellence and research contributions.
-
-Currently seeking opportunities to contribute to meaningful projects while continuing to grow as a software developer.
+*Open to internship and full-time opportunities*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=footer)
 
