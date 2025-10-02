@@ -85,22 +85,20 @@ Currently in Ankara, Turkey
 <tr>
 <td width="50%">
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=tahayunusdemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=tahayunusdemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF&count_private=true&include_all_commits=true))
+[![Taha yunus demir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF)](https://github.com/tahayunusdemir)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF&layout=compact&langs_count=8)
+[![Taha yunus demir - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF&layout=compact&langs_count=8)](https://github.com/tahayunusdemir)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahayunusdemir&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=FFFFFF)
+[![Taha yunus demir - GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahayunusdemir&theme=transparent&hide_border=true&background=0D1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE)](https://github.com/tahayunusdemir)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahayunusdemir&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF)
+[![Taha yunus demir - GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahayunusdemir&bg_color=0d1117&color=38BDAE&line=38BDAE&point=58a6ff&area=true&hide_border=true&title_color=38BDAE)](https://github.com/tahayunusdemir)
 
 </div>
 
