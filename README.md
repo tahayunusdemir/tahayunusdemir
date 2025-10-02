@@ -1,8 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=header)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tahayunusdemir&color=38BDAE&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/tahayunusdemir?style=social)](https://github.com/tahayunusdemir)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Computer+Engineering+Student;Erasmus+Scholar+%7C+Research+Award+Winner" alt="Typing SVG" />
 </div>
