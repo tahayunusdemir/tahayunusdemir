@@ -85,7 +85,7 @@ Currently in Ankara, Turkey
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahayunusdemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF&count_private=true&include_all_commits=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=tahayunusdemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=tahayunusdemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF&count_private=true&include_all_commits=true))
 
 </td>
 <td width="50%">
