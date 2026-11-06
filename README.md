@@ -1,20 +1,20 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=header)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;Computer+Engineering+Student;Erasmus+Scholar+%7C+TÜBİTAK+Research+Awardee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Android+Developer;Full-Stack+Developer;Founder+of+CineMention;Computer+Engineering+Graduate" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
 # Taha Yunus Demir
 
-**Computer Engineering Student · Full-Stack Developer · Mobile Developer**
+**Computer Engineering Graduate · Android Developer · Full-Stack Developer**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahayunusdemir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-yunus-demir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahayunusdemir)
 
-📍 Ankara, Turkey
+📍 Ankara, Türkiye
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ## About Me
 
-I build things that ship — web platforms, mobile apps, and AI integrations that end up in production. I graduated in Computer Engineering from Dumlupınar University (July 2026) and I'm the founder and sole developer of **[Cinemention](https://cinemention.com)**, a social film platform with a web app and a native Android app. Before that I interned at Demiray Software, Bimser and TÜBİTAK BİLGEM.
+I build Android apps with Kotlin and Jetpack Compose and full-stack web apps with Next.js, TypeScript and PostgreSQL. I graduated in Computer Engineering from Kütahya Dumlupınar University (July 2026) and I'm the founder and sole developer of **[CineMention](https://cinemention.com)**, a social platform for film discovery. Before that I interned at Demiray Software and Bimser.
 
-Along the way I've done an Erasmus+ exchange in Portugal, won a TÜBİTAK national research grant, and built a disaster response platform that coordinated 100+ volunteers.
+Along the way I led a TÜBİTAK 2209-A supported project as Project Leader and spent an Erasmus+ semester in Portugal.
 
 ---
 
@@ -32,66 +32,67 @@ Along the way I've done an Erasmus+ exchange in Portugal, won a TÜBİTAK nation
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [Cinemention](https://cinemention.com) — social film platform (web + Android) | Next.js · Supabase · Kotlin · Jetpack Compose | 🟢 Live |
-
-Shipped during my internship at Demiray Software: [CreateUpload](https://createupload.com) (AI video generation SaaS) and [RandevumOnline](https://randevumonline.com) (AI appointment chatbot).
+| [CineMention](https://cinemention.com) web app | Next.js · React · TypeScript · Supabase | 🟢 Live · 30+ users |
+| CineMention Android app | Kotlin · Jetpack Compose · Hilt | 🟡 Closed testing |
 
 ---
 
 ## Experience
 
-### Founder & Full-Stack Developer · [Cinemention](https://cinemention.com) *(Aug 2026 – Present)*
-> Self-employed, Turkey
+### Founder & Software Developer · [CineMention](https://cinemention.com) *(Aug 2026 – Present)*
+> Remote, Türkiye
 
-- Designed, launched and operate a social film platform (web + native Android) with personalized recommendations, taste matching, daily puzzles, clubs and real-time messaging.
-- Bilingual (TR/EN) Next.js PWA with React, TypeScript and Tailwind CSS on Supabase (PostgreSQL, row-level security, Realtime, Edge Functions).
-- Native Android app in Kotlin with Jetpack Compose, Hilt and Ktor.
-- CI/CD with GitHub Actions, Vitest and Playwright, Docker deployments to Hetzner via Coolify behind Cloudflare.
+- Founded a film discovery social platform and build its web and native Android apps as the sole developer, on one shared Supabase (PostgreSQL) backend.
+- Web: 140+ pages in Next.js, React and TypeScript, including swipe-based recommendations, taste matching, daily film puzzles, clubs, debates, messaging and a blog editor, with Turkish and English localization and PWA support.
+- Android: Kotlin, Jetpack Compose and Hilt in 25 Gradle modules, with Google sign-in, Firebase push notifications and Roborazzi screenshot tests.
+- 160 versioned SQL migrations, Supabase Edge Functions, unit tests (Vitest), end-to-end tests (Playwright), Docker builds and GitHub Actions CI.
 
-### Full-Stack Developer Intern · Demiray Software *(Apr 2026 – Jun 2026)*
-> Kütahya Tasarım Teknokent, Turkey
+### Software Intern · Demiray Software *(Apr 2026 – Jun 2026)*
+> Kütahya Tasarım Teknokent, Türkiye
 
-- Built an AI chatbot for **[RandevumOnline](https://randevumonline.com)** that autonomously handles appointment bookings via WhatsApp & Instagram, using Meta Business API with a locally hosted LLM.
-- Contributed full-stack to **[CreateUpload](https://createupload.com)** (Next.js · React · Tailwind CSS · MongoDB), integrating open-source AI models into the video generation pipeline.
-- Part of a 3-person team across two production SaaS products.
+- Built a multi-tenant messaging service (Python, FastAPI, MongoDB) for the company's booking product **[RandevumOnline](https://randevumonline.com)** that takes appointments over WhatsApp through a 6-screen, end-to-end encrypted WhatsApp Flows form.
+- Wrote the availability engine that computes open slots from working hours, staff leave, overlapping bookings and room availability.
+- Added an Instagram DM assistant (Groq, tool calling) that answers only from the business's own data and hands the customer off to staff when it cannot help.
+- Developed a geofenced attendance system: a Next.js admin panel for drawing work areas on a map, a Kotlin and Jetpack Compose app that reports location from a foreground service, and web push alerts on status changes.
 
-### Software Engineering Intern · Bimser Türkiye *(Aug 2024 – Sep 2024)*
-> Kocaeli University Technopark, Turkey
+### Android Developer Intern · Bimser *(Aug 2024 – Sep 2024)*
+> Kocaeli University Technopark, Türkiye
 
-- Built the **Ticket App** Android application from scratch (Kotlin · MVVM) to digitalize internal IT support workflows.
-- Implemented clean architecture with repository pattern, ViewModel, LiveData, and Retrofit for REST API integration.
-- Delivered a production-deployed solution that eliminated paper-based processes company-wide.
-
-### Software Intern · TÜBİTAK BİLGEM YTE *(Oct 2023)*
-> Ankara, Turkey — *Nationally competitive placement at Turkey's only CMMI Level 5 public software institution*
-
-- Completed the Software Development Specialist track: UX/UI, Figma, Java Spring, microservices.
-- Delivered a team capstone in Java Spring under senior engineer mentorship.
+- Built an internal task tracking (ticket) Android app in Kotlin with Jetpack Compose and MVVM: login, task lists, status and assignee updates, team messaging and profile screens.
+- Connected the app to the company's existing REST services with Retrofit, using Hilt for dependency injection.
 
 ---
 
 ## Featured Projects
 
-### [Emergency Aid and Need Coordination Network](https://github.com/tahayunusdemir/ayika) · Jun 2025
-> TÜBİTAK 2209-A Funded · Django REST · React · TypeScript · Flutter · PostgreSQL · Redis · Docker
+### [AYİKA · Emergency Aid and Needs Coordination Network](https://github.com/tahayunusdemir/ayika) · Mar 2024 – Jun 2025
+> Project Leader · Supported by TÜBİTAK 2209-A · Django REST Framework · React · TypeScript · Flutter · PostgreSQL · Redis · Docker
 
-Disaster response coordination platform (web + mobile) built under national research scholarship funding.
+Disaster response coordination system (web panel, REST API and mobile app) for volunteer management, aid shipment tracking and an aid point map. Supported by TÜBİTAK under the 2209-A Research Project Support Programme for Undergraduate Students (2023/2 call); completed with its final report accepted.
 
-- Real-time volunteer & resource management with GPS tracking, QR-code verification, and push notifications.
-- Role-based authorization covering emergency resource allocation — coordinated **100+ volunteers** via live dashboards.
+- Led a three-student team under an academic advisor.
+- Built the React and TypeScript admin panel for volunteer and shipment management with analytics charts.
+- Developed a Flutter app that maps aid points in all 81 provinces of Türkiye and finds the nearest one by GPS.
 
-### [Montanha Viva Dashboard](https://github.com/tahayunusdemir/montanha-viva-dashboard) · Jul 2025
-> La Caixa Foundation-funded · Django · React · Material-UI · PostgreSQL · Docker · Chart.js · [Project page](https://litecs.ubi.pt/en/projects/montanha-viva)
+### [Montanha Viva Dashboard](https://github.com/tahayunusdemir/montanha-viva-dashboard) · Jun 2025 – Jul 2025
+> Erasmus+ semester project, Universidade da Beira Interior · React · TypeScript · Material UI · Django REST Framework · PostgreSQL · Docker · [Demo](https://youtu.be/YbRXzuAOJUc)
 
-Full-stack management dashboard for a nature conservation initiative by LITecS lab (UBI), covering the Gardunha mountain region. Featured on **Portuguese national television (SIC Notícias)**.
+Full-stack web platform for UBI's Montanha Viva sustainability project in the Serra da Gardunha region, built under academic supervision and defended before a jury.
 
-- **500+ species** plant encyclopedia with AI-powered identification.
-- IoT sensor visualization, QR-based reward system, weather forecast integration.
-- JWT authentication and full admin panel.
+- IoT weather station data with charts filtered by station and date, and CSV export.
+- QR code rewards system, flora and hiking route encyclopedia, IPMA weather forecasts.
+- JWT authentication with refresh tokens in HttpOnly cookies and role-based user and admin dashboards.
 
 ---
 
 ## Tech Stack
+
+### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -105,27 +106,22 @@ Full-stack management dashboard for a nature conservation initiative by LITecS l
 
 ### Backend
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### Integrations
+![Meta](https://img.shields.io/badge/WhatsApp_%26_Instagram_APIs-0866FF?style=flat&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM_API-F55036?style=flat)
 
-### AI & Integrations
-![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat&logo=ollama&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Business_API-0866FF?style=flat&logo=meta&logoColor=white)
-
-### Databases, DevOps & Design
+### Databases, Testing, DevOps & Design
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -133,21 +129,18 @@ Full-stack management dashboard for a nature conservation initiative by LITecS l
 
 ## Education
 
-| Degree | Institution | Period | GPA |
-|--------|-------------|--------|-----|
-| B.Sc. Computer Engineering | Dumlupınar University — Kütahya, TR | Sep 2022 – Jul 2026 | 3.5 / 4.0 |
-| **Erasmus+ Exchange** | University of Beira Interior — Covilhã, PT | Feb 2025 – Jul 2025 | 3.3 / 4.0 |
-| B.Sc. Computer Engineering *(Transferred)* | Gaziosmanpaşa University — Tokat, TR | Sep 2021 – Jun 2022 | 3.78 / 4.0 |
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| B.Sc. Computer Engineering | Kütahya Dumlupınar University, Kütahya, TR | Sep 2022 – Jul 2026 |
+| Erasmus+ Exchange, Informatics Engineering | Universidade da Beira Interior, Covilhã, PT | Feb 2025 – Jul 2025 |
 
 ---
 
-## Honors & Awards
+## Certifications
 
-| Award | Organization | Year |
-|-------|-------------|------|
-| Erasmus+ Scholarship | European Union | 2024 |
-| TÜBİTAK 2209-A Research Scholarship | Turkish Scientific and Technological Research Council | 2024 |
-| Top 10% Lateral Transfer | Academic Excellence Recognition | 2022 |
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| TÜBİTAK BİLGEM YTE Bootcamp 2023 (Online): Java, Spring, Microservice Architectures, UX & Usability, Mock-Up Design with Figma | Uzaktan Eğitim Kapısı | Oct 2023 |
 
 ---
 
@@ -178,6 +171,6 @@ Full-stack management dashboard for a nature conservation initiative by LITecS l
 
 ---
 
-🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
+🇹🇷 Turkish (Native) · 🇬🇧 English (B1)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=footer)
