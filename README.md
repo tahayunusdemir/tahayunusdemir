@@ -144,33 +144,6 @@ Full-stack web platform for UBI's Montanha Viva sustainability project in the Se
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF)](https://github.com/tahayunusdemir)
-
-</td>
-<td width="50%">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayunusdemir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF&layout=compact&langs_count=8)](https://github.com/tahayunusdemir)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahayunusdemir&theme=transparent&hide_border=true&background=0D1117&stroke=38BDAE&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE)](https://github.com/tahayunusdemir)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahayunusdemir&bg_color=0d1117&color=38BDAE&line=38BDAE&point=58a6ff&area=true&hide_border=true&title_color=38BDAE)](https://github.com/tahayunusdemir)
-
-</div>
-
----
-
 🇹🇷 Turkish (Native) · 🇬🇧 English (B1)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=footer)
