@@ -144,6 +144,6 @@ Full-stack web platform for UBI's Montanha Viva sustainability project in the Se
 
 ---
 
-🇹🇷 Turkish (Native) · 🇬🇧 English (B1)
+🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=footer)
